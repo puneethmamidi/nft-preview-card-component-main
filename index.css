@@ -18,13 +18,13 @@ body{
     padding: 1.2rem;
     border-radius: 1rem;
 }
-h2{
-    font-weight: 400;
+h1{
+    font-weight: 600;
 }
-h2,#user-name{
+h1,#user-name{
     color:hsl(0, 0%, 100%);
 }
-h2:hover,#user-name:hover{
+h1:hover,#user-name:hover{
     color:hsl(178, 100%, 50%);
     cursor: pointer;
 }
